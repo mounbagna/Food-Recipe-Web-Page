@@ -30,7 +30,7 @@ A web application for food enthusiasts to browse, share, and interact around a c
 
 # SET UP AND INSTALLATION
 
-## 1.Clone the Repository:git clone https://github.com/your-username/food-recipe-web-page.git
+## 1.Clone the Repository:git clone https://github.com/mounbagna/food-recipe-web-page.git
 
 ## 2.Prepare the XAMPP Environment:
 -Download and install XAMPP if you haven't already.
