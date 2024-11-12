@@ -52,3 +52,8 @@ The project files are named to reflect their functions for easy identification. 
 .admin_login.php – Handles the admin login.
 Other files follow similar naming conventions to indicate their purpose
 
+## HOW THE APP LOOKS LIKE
+
+https://github.com/mounbagna/Food-Recipe-Web-Page/blob/main/food-recipe-home-page.png
+
+
