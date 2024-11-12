@@ -66,6 +66,10 @@ The project files are named to reflect their functions for easy identification. 
 
 Other files follow similar naming conventions to indicate their purpose
 
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/mounbagna-abdella-abasse-875958314/) – Connect with me on LinkedIn!
+
+
 ## HOW THE APP LOOKS LIKE
 
 ![alt text](https://github.com/mounbagna/Food-Recipe-Web-Page/blob/main/food-recipe-home-page.png)
