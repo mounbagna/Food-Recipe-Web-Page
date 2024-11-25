@@ -1,6 +1,10 @@
 # FOOD RECIPE WEB APPLICATION
 A web application for food enthusiasts to browse, share, and interact around a collection of recipes. This project enables both customers and administrator to manage and access recipes through a user-friendly interface.
 
+# Prerequisites
+ - XAMPP server(Mysql)
+ - Visual studio code
+   
 # FEATURES
 
 ## 1. Customer Registration and Authentication
